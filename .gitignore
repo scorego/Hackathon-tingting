@@ -1,0 +1,7 @@
+target/
+.idea/
+*.iml
+classpath
+git
+**/.DS_Store
+log/
